@@ -12,8 +12,6 @@ OBJECTS:3
 a
 b
 c
-
-
 INITIAL-STATE:4
 CLEAR
 a
@@ -30,6 +28,6 @@ ON-TABLE
 a
 CLEAR
 b
-================
+***************
 Current implemtaiton is able to solve famous susman-anomally problem which
 is classic problem to evaluate planners. 
