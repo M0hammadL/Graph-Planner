@@ -16,6 +16,7 @@ Input format:
 ============
 problem setting should be given as input :
 OBJECTS:3
+\\n
 a
 b
 c
