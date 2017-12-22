@@ -12,7 +12,29 @@ can quickly be propagated through the graph as it is being built. Graphplan then
 for a plan. Graphplan was created by Avrim Blum and Merrick Furst, with subsequent extensions and improvements made by many
 researchers at many different institutions around the world.
 
-Input format
+Input format:
 ============
+problem setting should be given as input :
+OBJECTS:3
+a
+b
+c
 
+
+INITIAL-STATE:4
+CLEAR
+a
+ARM-EMPTY
+ON
+a
+b
+ON-TABLE
+b
+
+
+GOALS:2
+ON-TABLE
+a
+CLEAR
+b
 
