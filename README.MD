@@ -28,20 +28,49 @@ b
 c
 
 
+
+
 INITIAL-STATE:4
+
+
+
 CLEAR
+
+
+
 a
+
+
 ARM-EMPTY
+
+
+
 ON
 a
+
+
 b
+
+
 ON-TABLE
+
+
 b
+
+
 
 
 GOALS:2
+
+
 ON-TABLE
+
+
 a
+
+
 CLEAR
+
+
 b
 
